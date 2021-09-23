@@ -1,7 +1,10 @@
-# UChicago MSCA 32009 Health Analytics Project
+# Diabetes Prediction
 [Kaggle Competition](https://www.kaggle.com/c/pf2012-diabetes/): Practice Fusion Diabetes Classification
 
-## Description
+## Project Description
+This repository is for the individual project **MSCA 32009 Health Analytics**.
+* Instructor: `Arnab Bose`
+
 Over 25 million people, or nearly 8.3% of the entire United States population, have diabetes. Diabetes is also associated with a wide range of complications from heart disease and stroke to blindness and kidney disease. Predicting who has diabetes will lead to a better understanding of these complications and the common comorbidities that diabetics suffer.
 
 The Challenge: Given a de-identified data set of patient electronic health records, build a model to determine who has a diabetes diagnosis, as defined by ICD9 codes 250, 250.0, 250.*0 or 250.*2 (e.g., 250, 250.0, 250.00, 250.10, 250.52, etc).
