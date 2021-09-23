@@ -3,6 +3,7 @@
 ## Project Description
 This repository is for the individual project **MSCA 32009 Health Analytics**.
 * Instructor: `Arnab Bose`
+* Author: `Elly Yang`
 
 ## Data Description: [Kaggle Competition](https://www.kaggle.com/c/pf2012-diabetes/)
 The dataset consits of 17 files: 2 common files and 15 data files that are in comman separated value (csv) format. Please refer to the data dictionary for relational data schema.
